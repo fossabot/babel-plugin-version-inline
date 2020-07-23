@@ -1,4 +1,6 @@
 # babel-plugin-version-inline
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fgnandretta%2Fbabel-plugin-version-inline.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fgnandretta%2Fbabel-plugin-version-inline?ref=badge_shield)
+
 
 Turn `__VERSION__` into the package's version string.
 
@@ -57,3 +59,7 @@ require("babel-core").transform("code", {
   plugins: ["version-inline"]
 });
 ```
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fgnandretta%2Fbabel-plugin-version-inline.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fgnandretta%2Fbabel-plugin-version-inline?ref=badge_large)
